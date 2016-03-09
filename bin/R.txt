@@ -1,0 +1,5 @@
+int drawable combo_bg_normal 0x7f020000
+int drawable combo_bg_selected 0x7f020001
+int drawable recharge_box_press 0x7f020002
+int drawable recharge_money_box 0x7f020003
+int drawable slide_menu_bg 0x7f020004
